@@ -1,0 +1,1 @@
+webÇ java -Dserver.port=$PORT -Dspring.profiles.active=prod -jar target/buscador-0.0.1-SNAPSHOT.jar
